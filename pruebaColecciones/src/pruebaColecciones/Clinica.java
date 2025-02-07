@@ -3,7 +3,7 @@ package pruebaColecciones;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+//Lucas Sansaturnino Houari
 public class Clinica {
 
 	void mostrarMenu() {
